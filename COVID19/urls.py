@@ -22,9 +22,9 @@ from Corona import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.Home, name="home"),
-    # url('symptoms/', views.Symptoms, name="symptoms"),
+    url('map/', views.Symptoms, name="symptoms"),
     # url('prevantion/', views.Prevent, name="prevent"),
-    # url('news/', views.News, name="news"),
+    url('news/', views.News, name="news"),
     # url('about/', views.About, name="about"),
     # url('subscribe/', views.SubscribeView, name="subscribe"),
     
