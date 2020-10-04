@@ -1,2 +1,2 @@
 # COVID-19-INDIA
-A COVID-19 website where you can get all the latest news and stats regarding COVID-19
+A COVID-19 website where you can get all the latest news and stats regarding COVID-19 and getting all the updates regarding covid.
