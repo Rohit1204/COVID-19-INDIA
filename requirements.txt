@@ -8,7 +8,7 @@ Django==3.0.5
 idna==2.9
 newsapi==0.1.1
 newsapi-python==0.2.6
-Pillow==7.1.2
+Pillow==8.2.0
 pytz==2020.1
 requests==2.23.0
 soupsieve==2.0
